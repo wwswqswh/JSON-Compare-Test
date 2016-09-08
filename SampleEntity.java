@@ -1,4 +1,3 @@
-package com.travelsky.phoenix.jsonCompareTest;
 
 import java.io.Serializable;
 import java.util.Date;
